@@ -266,3 +266,32 @@ color: #999999;
 
 font-weight: 400;
 }
+
+.showcase-section{
+
+background-color: #F6F9F9;
+
+padding: 100px 0;
+}
+
+.section-wrapper{
+
+width: 80%;
+
+margin: auto;
+}
+
+.section-heading{
+
+text-align: center;
+}
+
+.section-heading h1{
+    
+font-size: 40px;
+}
+
+.section-heading p{
+    
+margin: 15px;
+}
